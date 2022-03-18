@@ -7,6 +7,3 @@
             Dev Server, SourceMaps, Eslint, Not Minified JS & CSS
         - Prod
             Minified Code
-
-
-2) Git
