@@ -9,5 +9,6 @@ module.exports = {
   rules: {
     'semi': 'off',
     'require-jsdoc': 'off',
+    'operator-linebreak': 'off',
   },
 }
